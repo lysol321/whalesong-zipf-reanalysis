@@ -1,0 +1,6 @@
+1 20 all5: 12 per pipeline: [18, 18, 17, 17, 17]
+2 20 all5: 10 per pipeline: [18, 16, 18, 17, 17]
+3 20 all5: 12 per pipeline: [16, 17, 17, 17, 17]
+4 20 all5: 8 per pipeline: [17, 17, 16, 17, 16]
+rec2 20 all5: 10 per pipeline: [17, 18, 18, 17, 16]
+rec3 20 all5: 10 per pipeline: [17, 18, 17, 17, 16]
